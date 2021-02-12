@@ -1,2 +1,4 @@
 # Projects
-(SAP)
+*Pong Game
+*MySQL Project
+*Java Project
