@@ -1,4 +1,4 @@
 # Projects
-*Pong Game
-*MySQL Project
-*Java Project
+* Pong Game
+* MySQL Project
+* Java Project
